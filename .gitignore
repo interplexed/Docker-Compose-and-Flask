@@ -1,0 +1,3 @@
+#Uncomment for normal usage 
+#.env
+*.code-workspace
